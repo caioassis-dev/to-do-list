@@ -7,6 +7,6 @@ Criando uma simples lista de tarefas com JS
 
 ### Lista de tarefas - JS
   
-  ![Captura de Tela 2022-06-13 às 20 21 34](https://user-images.githubusercontent.com/61170444/173463868-26fe7d5b-e1ef-44bd-b9d8-235d9f167a13.png)
+  [![Captura de Tela 2022-06-13 às 20 21 34](https://user-images.githubusercontent.com/61170444/173463868-26fe7d5b-e1ef-44bd-b9d8-235d9f167a13.png)](https://caioassis-dev.github.io/to-do-list/)
   
   
